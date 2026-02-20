@@ -7,10 +7,11 @@ public class Student {
 	private String name;
 	private String groupName;
 	private int[] grades;
+	private String modules[];
 	
 	public Student() {
-		
-		this.name="";
+
+		super();
 		this.groupName="";
 		this.grades= new int[5];
 		
