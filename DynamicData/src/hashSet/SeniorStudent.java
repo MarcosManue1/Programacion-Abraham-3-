@@ -23,16 +23,11 @@ public class SeniorStudent extends Student{
 		
 	}
 
-	public SeniorStudent(String incomingName, boolean b) {
-		super(incomingName, b);
-		pendingModules=false;
-	}
-
-	public SeniorStudent(String incomingName) {
+	/* public SeniorStudent(String incomingName) {
 		super(incomingName);
 		pendingModules=false;
+		
 	}
-	
-	public boolean isPending
+	*/
 	
 }
